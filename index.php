@@ -5,5 +5,5 @@
 This is a multi-line comment
 */
 
-echo "Hello, India!";  // Outputs "Hello, World!" to the browser
+echo "Hello, WOrld!";  // Outputs "Hello, World!" to the browser
 ?>
